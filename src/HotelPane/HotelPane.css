@@ -1,0 +1,15 @@
+.hotel-pane {
+    border: solid 1px #777;
+    padding: 1rem;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+    width:  40rem;
+    min-height:  10rem;
+}
+
+.hotel-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

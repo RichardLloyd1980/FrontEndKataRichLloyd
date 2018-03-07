@@ -1,0 +1,26 @@
+.rating-item {
+  float: left;
+  width: 1em;
+  height: 1em;
+  background: #feefc2;
+  margin-right: .125em;
+  border-radius: 3px;
+}
+
+.rating-item.rating-rated {
+    background: #FCC82B;
+}
+
+.rating-icons {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.rating-icons li {
+    list-style-type: none;
+}
+
+.rating-area {
+    display: flex;
+    align-items: center;
+}

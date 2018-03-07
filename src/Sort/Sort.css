@@ -1,0 +1,11 @@
+.sort-bar {
+    display: flex;
+    align-items: center;
+}
+
+.sort-header {
+    font-size: 15px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-right: 2rem;
+}

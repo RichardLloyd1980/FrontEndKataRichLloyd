@@ -1,0 +1,10 @@
+.filter-items {
+    padding-right: 1rem;
+}
+
+.filter-items li {
+    list-style-type: none;
+    width: 8rem;
+    display: flex;
+    justify-content: space-between;
+}

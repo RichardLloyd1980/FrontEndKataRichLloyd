@@ -1,0 +1,32 @@
+.App-logo {
+  height: 1.5rem;
+}
+
+.App-header {
+  background-color: #411485;
+  height: 2rem;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.app-content {
+  padding: 3rem 2rem 0 2rem;
+}
+
+.app-row {
+  display: flex;
+}
+
+.app-left {
+  padding-right: 1rem;
+}
+
+.filters-header {
+  font-size: 15px;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
